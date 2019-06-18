@@ -3,7 +3,7 @@ html, body{
 	margin:0;
 }
 header {
-	background-color: #f7e8e8;
+	background-color: #db3f3f;
 	padding: 40px;
 	text-align: center;
 }
@@ -18,10 +18,19 @@ header img{
 	border: 10px solid #4c1111; 
 
 }
+h2{ 
+	background-color: #e56767;
+	border-radius: 10px;
+	font-size: 25px;
+	text-align: center;
+	font-weight: bold;
+
+}
 .content{
 	max-width: 700px;
 	margin: 0 auto;
 	padding: 0 20px;
+
 
 }
 img.big-image{
@@ -47,11 +56,12 @@ a{
 footer{
 	margin-top: 20px;
 	padding: 40px 20px;
-	background-color: #704b4b; 
+	background-color: #722929; 
 }
 
 footer ul{
 	text-align: center;
+	font-weight: bold;
 }
 
 footer ul li{display: inline-block;
