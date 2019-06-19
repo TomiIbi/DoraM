@@ -34,7 +34,8 @@ h2{
 
 }
 img.big-image{
-	max-width: 100%
+	max-width: 100%;
+
 }
 p.caption{
 	font-size: 12px;
